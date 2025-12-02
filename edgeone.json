@@ -1,0 +1,21 @@
+{
+  "headers": [
+    {
+      "source": "/*",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "s-maxage=10000, max-age=31536000"
+        },
+        {
+          "key": "Pages-Cache-Control",
+          "value": "s-maxage=10000"
+        }
+      ]
+    }
+  ]
+}
